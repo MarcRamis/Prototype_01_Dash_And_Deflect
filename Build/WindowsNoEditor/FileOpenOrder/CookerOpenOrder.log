@@ -1,0 +1,825 @@
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Sounds/LaserShoot.uasset" 0
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Meshes/BaseMaterial.uasset" 1
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 2
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 3
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Enemies/Enemy_interfice.uasset" 4
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Materials/GlowEnemyShoot_Mat.uasset" 5
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 6
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Sounds/LaserShoot_Attenuation.uasset" 7
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Audios/mixkit-sword-slash-swoosh-1476.uasset" 8
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Audios/S_Melee_Hit.uasset" 9
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Audios/394429__inspectorj__bamboo-swing-b17.uasset" 10
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Audios/S_Dash.uasset" 11
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Blueprints/Shakes/Jump_Shake.uasset" 12
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Audios/mixkit-metal-hit-woosh-1485.uasset" 13
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Audios/S_Melee_NoHit.uasset" 14
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 15
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 16
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 17
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 18
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 19
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 20
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 21
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 22
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 23
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 24
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 25
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 26
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 27
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 28
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 29
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 30
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 31
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 32
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Materials/M_SwordTrail.uasset" 33
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/ParticleSystems/PS_SwordTrail.uasset" 34
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 35
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 36
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/AttackRight.uasset" 37
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/FirstPerson_MeleeAttack_3.uasset" 38
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/AttackLeft.uasset" 39
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/FirstPerson_MeleeAttack_2.uasset" 40
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/AttackDown.uasset" 41
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/FirstPerson_MeleeAttack.uasset" 42
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 43
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 44
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 45
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 46
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/FirstPerson_Idle_2.uasset" 47
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 48
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 49
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Assets/Sword/sword_highpoly_Skeleton.uasset" 50
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Assets/Sword/sword_highpoly_PhysicsAsset.uasset" 51
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Assets/Sword/Sword_Roughness.uasset" 52
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Assets/Sword/Sword_Normal.uasset" 53
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Assets/Sword/Sword_Metallic.uasset" 54
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Assets/Sword/Sword_EmissionColor.uasset" 55
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Assets/Sword/Sword_Color.uasset" 56
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Assets/Sword/Sword_Mat.uasset" 57
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Assets/Sword/sword_highpoly.uasset" 58
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Blueprints/Grapple/EGrappleState.uasset" 59
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Blueprints/Grapple/BP_GrappleLine.uasset" 60
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Assets/Grappling_Mark/grabbling_mark.uasset" 61
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Blueprints/Grapple/GrappleTarget_Widget.uasset" 62
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Blueprints/Grapple/BP_GrappleTarget.uasset" 63
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 64
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 65
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 66
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 67
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 68
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 69
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Blueprints/Grapple/BP_GrappleHook.uasset" 70
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Audios/541975__16bitstudios__grappling-hook.uasset" 71
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Audios/S_Grappling.uasset" 72
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Blueprints/Grapple/GrappleComponent.uasset" 73
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 74
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 75
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 76
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 77
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 78
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 79
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 80
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 81
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 82
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 83
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 84
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 85
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 86
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 87
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uasset" 88
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 89
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 90
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 91
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 92
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 93
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 94
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 95
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 96
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 97
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 98
+"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 99
+"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 100
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 101
+"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 102
+"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 103
+"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 104
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 105
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 106
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 107
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 108
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 109
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 110
+"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 111
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 112
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 113
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 114
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 115
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 116
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 117
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 118
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 119
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 120
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 121
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 122
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 123
+"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 124
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Effects/Dash_Lines.uasset" 125
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Images/sprint.uasset" 126
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Dash.uasset" 127
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Effects/Dash_Lines_Grapple.uasset" 128
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Effects/Dodge_Lines.uasset" 129
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 130
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Materials/TotalWhite.uasset" 131
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Materials/Shield_Mat2.uasset" 132
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Materials/Shield_Mat2_Inst.uasset" 133
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 134
+"../../../Engine/Content/BasicShapes/Cube.uasset" 135
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Shield/Jagged_SM.uasset" 136
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Enemies/BP_Enemy_Shoot.uasset" 137
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Enemies/BP_Enemy.uasset" 138
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Images/sprint_without_pattern.uasset" 139
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Materials/GlowEnemyShoot.uasset" 140
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Matterials/GlowEnemyShoot.uasset" 141
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Matterials/GlowEnemyShoot_Mat.uasset" 142
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Materials/HexEdge.uasset" 143
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Matterials/HexEdge.uasset" 144
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Matterials/Shield_Mat2.uasset" 145
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Matterials/Shield_Mat2_Inst.uasset" 146
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Materials/totalBlack.uasset" 147
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Matterials/totalBlack.uasset" 148
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Matterials/TotalWhite.uasset" 149
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Materials/Updated_Black_Texture.uasset" 150
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Matterials/Updated_Black_Texture.uasset" 151
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Sounds/Ambient/AmbientMusic_Att.uasset" 152
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 153
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 154
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 155
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Materials/M_SwordAndShield.uasset" 156
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Meshes/SK_Shield.uasset" 157
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Meshes/SK_Shield_PhysicsAsset.uasset" 158
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Meshes/SK_Shield_Skeleton.uasset" 159
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Meshes/SK_Sword.uasset" 160
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Meshes/SK_Sword_PhysicsAsset.uasset" 161
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Meshes/SK_Sword_Skeleton.uasset" 162
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 163
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 164
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 165
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 166
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 167
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 168
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 169
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 170
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 171
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 172
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 173
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 174
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 175
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 176
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 177
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 178
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 179
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 180
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPersonBP/FirstPersonOverview.uasset" 181
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Geometry/Meshes/CubeMaterial.uasset" 182
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 183
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Geometry/Meshes/TemplateFloor.uasset" 184
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall01_R.uasset" 185
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall01_N.uasset" 186
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall01_BC.uasset" 187
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall01_AO.uasset" 188
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall01_MT.uasset" 189
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_Wall01.uasset" 190
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor03_Orange_BC.uasset" 191
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor03_R.uasset" 192
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor03_N.uasset" 193
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor03_AO.uasset" 194
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Floor03_Orange.uasset" 195
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_WallStickers_BC.uasset" 196
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_WallStripe03.uasset" 197
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_WallStripe03_Dark.uasset" 198
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_LightGlow.uasset" 199
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_Glow.uasset" 200
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/AttackDownCharge.uasset" 201
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/AttackDownHold.uasset" 202
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/AttackDownRelease.uasset" 203
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/AttackLeftCharge.uasset" 204
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/AttackLeftHold.uasset" 205
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/AttackLeftRelease.uasset" 206
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/AttackRightCharge.uasset" 207
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/AttackRightHold.uasset" 208
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/AttackRightRelease.uasset" 209
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/AttackStab.uasset" 210
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/AttackStabCharge.uasset" 211
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/AttackStabHold.uasset" 212
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/AttackStabRelease.uasset" 213
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/BlockEnd.uasset" 214
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/BlockIdle.uasset" 215
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/BlockImpact.uasset" 216
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/BlockJumpEnd.uasset" 217
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/BlockJumpLoop.uasset" 218
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/BlockJumpStart.uasset" 219
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/BlockSprint.uasset" 220
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/BlockStart.uasset" 221
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/BlockWalk.uasset" 222
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/Idle.uasset" 223
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/IdleUnarmedPose.uasset" 224
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/JumpEnd.uasset" 225
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/JumpLoop.uasset" 226
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/JumpStart.uasset" 227
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/Sheathe.uasset" 228
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/ShieldBash.uasset" 229
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/Sprint.uasset" 230
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/Unsheathe.uasset" 231
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Animation_Sword/FPSwordAndShield/Animations/Walk.uasset" 232
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Heavypillar_R.uasset" 233
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Heavypillar_N.uasset" 234
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Heavypillar_BC.uasset" 235
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Heavypillar_AO.uasset" 236
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Heavypillar.uasset" 237
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Heavypillar01.uasset" 238
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Heavypillar.uasset" 239
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_HeavyPillar03.uasset" 240
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_HeavyPillar_Base.uasset" 241
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_HeavyPillar_Cyrcle.uasset" 242
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_HeavyPillar_Top.uasset" 243
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall02_R.uasset" 244
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall02_N.uasset" 245
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall02_BC.uasset" 246
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall02_AO.uasset" 247
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Wall02.uasset" 248
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall02_InnerCorner.uasset" 249
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall02_OuterCorner.uasset" 250
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall07_R.uasset" 251
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall07_N.uasset" 252
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall07_BC.uasset" 253
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall07_AO.uasset" 254
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Wall07.uasset" 255
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall07.uasset" 256
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall07_Double.uasset" 257
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall07_InnerCorner.uasset" 258
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall07_OuterCorner.uasset" 259
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall08_R.uasset" 260
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall08_N.uasset" 261
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall08_BC.uasset" 262
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall08_AO.uasset" 263
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Wall08.uasset" 264
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall08_InnerCorner.uasset" 265
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wallfabric01_R.uasset" 266
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wallfabric01_N.uasset" 267
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wallfabric01_BC.uasset" 268
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wallfabric01_AO.uasset" 269
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Wallfabric01.uasset" 270
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wallfabric01_Cornersoft.uasset" 271
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wallfabric01_Corner02.uasset" 272
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_ColorScheme01.uasset" 273
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/Color_Scheme01.uasset" 274
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_ColorScheme02.uasset" 275
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_ColorScheme03.uasset" 276
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor04_BC.uasset" 277
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor05_BC.uasset" 278
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Gate01_MT.uasset" 279
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Gate01_M.uasset" 280
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Gate02_MT.uasset" 281
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Hangarwall02_R.uasset" 282
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Hangarwall_R.uasset" 283
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pillar01_MT.uasset" 284
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_plane_MT.uasset" 285
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_plane_M.uasset" 286
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall01_M.uasset" 287
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_WallStickersDetails_BC.uasset" 288
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Blueprints/Shakes/Idle_Shake.uasset" 289
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Blueprints/Idle_Shake.uasset" 290
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Blueprints/Jump_Shake.uasset" 291
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Blueprints/Shakes/Walking_Shake.uasset" 292
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Blueprints/Walking_Shake.uasset" 293
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Scenes/S_Prototype.uasset" 294
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Scenes/SC_Prototype_BuiltData.uasset" 295
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Scenes/S_Prototype_BuiltData.uasset" 296
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 297
+"../../../Engine/Content/BasicShapes/Cone.uasset" 298
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 299
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 300
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 301
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 302
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 303
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 304
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 305
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 306
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 307
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 308
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 309
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 310
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 311
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 312
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 313
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 314
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 315
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 316
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 317
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 318
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 319
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 320
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 321
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 322
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 323
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 324
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 325
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 326
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 327
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 328
+"../../../Engine/Content/EditorResources/S_Note.uasset" 329
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 330
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 331
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 332
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 333
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 334
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 335
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 336
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 337
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 338
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 339
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 340
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 341
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 342
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 343
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 344
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 345
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 346
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 347
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 348
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 349
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 350
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 351
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 352
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 353
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 354
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 355
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 356
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 357
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 358
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 359
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 360
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 361
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 362
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 363
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 364
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 365
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 366
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 367
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 368
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 369
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 370
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 371
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 372
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 373
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 374
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 375
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 376
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 377
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 378
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 379
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 380
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 381
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 382
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 383
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 384
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 385
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 386
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 387
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 388
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 389
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 390
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 391
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 392
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 393
+"../../../Engine/Content/EngineResources/Black.uasset" 394
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 395
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 396
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 397
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 398
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 399
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 400
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 401
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 402
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 403
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 404
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 405
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 406
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 407
+"../../../Engine/Content/EngineSounds/Master.uasset" 408
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 409
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 410
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 411
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 412
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 413
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 414
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 415
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 416
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 417
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 418
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 419
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 420
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 421
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 422
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 423
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 424
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 425
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 426
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 427
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 428
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 429
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 430
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 431
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 432
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 433
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 434
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 435
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 436
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 437
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 438
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 439
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 440
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 441
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 442
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 443
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 444
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 445
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 446
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 447
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 448
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 449
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 450
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 451
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 452
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 453
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 454
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 455
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 456
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 457
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 458
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 459
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 460
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 461
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 462
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 463
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 464
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 465
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 466
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 467
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 468
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 469
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 470
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 471
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 472
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 473
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Sounds/Ambient/AmbientMusic.uasset" 474
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Sounds/Ambient/AmbientMusic_Cue.uasset" 475
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 476
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 477
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 478
+"../../../Engine/Content/BasicShapes/Plane.uasset" 479
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 480
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Scene/Alex_Scene_BuiltData.uasset" 481
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 482
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 483
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 484
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 485
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 486
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Scene/Alex_Scene.umap" 487
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Geometry/Meshes/1M_Cube.uasset" 488
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 489
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 490
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 491
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 492
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 493
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 494
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 495
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 496
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Door01_R.uasset" 497
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/SM_Door01_R.uasset" 498
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Door01_N.uasset" 499
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/SM_Door01_N.uasset" 500
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Door01_BC.uasset" 501
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/SM_Door01_BC.uasset" 502
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Door01_AO.uasset" 503
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/SM_Door01_AO.uasset" 504
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Door01.uasset" 505
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Door01_Frame.uasset" 506
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Door01_Combined.uasset" 507
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Crate_R.uasset" 508
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Crate_N.uasset" 509
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Crate_BC.uasset" 510
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Crate_AO.uasset" 511
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Crate.uasset" 512
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Crate01.uasset" 513
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Container_BC.uasset" 514
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Container_AO.uasset" 515
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Container_R.uasset" 516
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Container_N.uasset" 517
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Container.uasset" 518
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Container.uasset" 519
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Ceiling01_R.uasset" 520
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Ceiling01_N.uasset" 521
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Ceiling01_BC.uasset" 522
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Ceiling01_AO.uasset" 523
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Ceiling01.uasset" 524
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Ceiling_Corner03.uasset" 525
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Ceiling_Corner02.uasset" 526
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Ceiling_Corner01.uasset" 527
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Ceiling02.uasset" 528
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Rails_R.uasset" 529
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Rails_N.uasset" 530
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Rails_BC.uasset" 531
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Rails_AO.uasset" 532
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Rails.uasset" 533
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Cable06.uasset" 534
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Cable05.uasset" 535
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Cable04.uasset" 536
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Cable03.uasset" 537
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Cable02.uasset" 538
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Cable01.uasset" 539
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Beam03.uasset" 540
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Beam02.uasset" 541
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Beam01.uasset" 542
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Barrel01_R.uasset" 543
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Barrel01_N.uasset" 544
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Barrel01_BC.uasset" 545
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Barrel01_AO.uasset" 546
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Barrel01.uasset" 547
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Barrel.uasset" 548
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_WallStripe01.uasset" 549
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Puddle01_BC.uasset" 550
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_Puddle02.uasset" 551
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_Puddle01.uasset" 552
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_LeakingDirt_BC.uasset" 553
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_LeakingDecal02.uasset" 554
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_LeakingDecal01.uasset" 555
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_AreaDecal_BC.uasset" 556
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_AreaDecal.uasset" 557
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_WallStripe04.uasset" 558
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_WallStripe04_Dark.uasset" 559
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_WallStripe02.uasset" 560
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_WallStripe02_Yellow.uasset" 561
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_WallStripe02_Dark.uasset" 562
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wallfabric01_InnerCorner.uasset" 563
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wallfabric01.uasset" 564
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_WallConcrete_R.uasset" 565
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_WallConcrete_N.uasset" 566
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_WallConcrete_BC.uasset" 567
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_WallConcrete_AO.uasset" 568
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_WallConcrete.uasset" 569
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_WallConcrete.uasset" 570
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall08_OuterCorner.uasset" 571
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall08.uasset" 572
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall04_R.uasset" 573
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall04_N.uasset" 574
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall04_BC.uasset" 575
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall04_AO.uasset" 576
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Wall04.uasset" 577
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall04_Outercorner.uasset" 578
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall04_Large.uasset" 579
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall04.uasset" 580
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall03_R.uasset" 581
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall03_N.uasset" 582
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall03_BC.uasset" 583
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall03_AO.uasset" 584
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Wall03.uasset" 585
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall03_Corner.uasset" 586
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall03.uasset" 587
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall02.uasset" 588
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall01.uasset" 589
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Hangarwall02_N.uasset" 590
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Hangarwall02_BC.uasset" 591
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Hangarwall02_AO.uasset" 592
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Hangarwall02.uasset" 593
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_StairsSupport.uasset" 594
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Stairs01_R.uasset" 595
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Stairs01_N.uasset" 596
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Stairs01_BC.uasset" 597
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Stairs01_AO.uasset" 598
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Stairs.uasset" 599
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Stairs06.uasset" 600
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Stairs04.uasset" 601
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Stairs03.uasset" 602
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Stairs02.uasset" 603
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Stairs01.uasset" 604
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_RoundWall01_R.uasset" 605
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_RoundWall01_N.uasset" 606
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_RoundWall01_M.uasset" 607
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_RoundWall01_BC.uasset" 608
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_RoundWall01_AO.uasset" 609
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_RoundWall01.uasset" 610
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RoundWall05.uasset" 611
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RoundWall.uasset" 612
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RailWhite_Stairs.uasset" 613
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RailWhite_Corner.uasset" 614
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RailWhite3m.uasset" 615
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RailRed3m.uasset" 616
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_plane_N.uasset" 617
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_PlaneGlass.uasset" 618
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_plane_R.uasset" 619
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_plane_BC.uasset" 620
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_plane_AO.uasset" 621
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Plane.uasset" 622
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Plane.uasset" 623
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pipe01_R.uasset" 624
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pipe01_N.uasset" 625
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pipe01_BC.uasset" 626
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pipe01_AO.uasset" 627
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Pipe01.uasset" 628
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Pipe01_Bend90.uasset" 629
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Pipe01.uasset" 630
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pillar01_R.uasset" 631
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pillar01_N.uasset" 632
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pillar01_BC.uasset" 633
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pillar01_AO.uasset" 634
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Pillar01.uasset" 635
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Pillar01.uasset" 636
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Lights_R.uasset" 637
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Lights_N.uasset" 638
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Lights_BC.uasset" 639
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Lights_AO.uasset" 640
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Light.uasset" 641
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Light04.uasset" 642
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Light03.uasset" 643
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Light02.uasset" 644
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Light01.uasset" 645
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_LargePillar_R.uasset" 646
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_LargePillar_N.uasset" 647
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_LargePillar_BC.uasset" 648
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_LargePillar_AO.uasset" 649
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_LargePillar.uasset" 650
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_LargePillar.uasset" 651
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Heavypillar02.uasset" 652
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Hangarwall01_R.uasset" 653
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Hangarwall01_N.uasset" 654
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Hangarwall01_AO.uasset" 655
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Hangarwall01_BC.uasset" 656
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Hangarwall01_A.uasset" 657
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Hangarwall01.uasset" 658
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_HangarWall_Frame.uasset" 659
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Hangarwall_red_BC.uasset" 660
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Hangarwall_red.uasset" 661
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_HangarWall_Center.uasset" 662
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_HangarWall02.uasset" 663
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_HangarWall01.uasset" 664
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_HangarCeiling_R.uasset" 665
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_HangarCeiling_N.uasset" 666
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_HangarCeiling_BC.uasset" 667
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_HangarCeiling_AO.uasset" 668
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Hangarceiling.uasset" 669
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_HangarCeiling_Parts.uasset" 670
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_HangarCeiling_Lower.uasset" 671
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_HangarCeiling_Frame.uasset" 672
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_HangarCeiling.uasset" 673
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Gate01_R.uasset" 674
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Gate01_N.uasset" 675
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Gate01_BC.uasset" 676
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Gate01_AO.uasset" 677
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Gate01.uasset" 678
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Gate_Frame.uasset" 679
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Gate_Door.uasset" 680
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Fence_M.uasset" 681
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Fence01_R.uasset" 682
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Fence01_N.uasset" 683
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Fence01_BC.uasset" 684
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Fence01_AO.uasset" 685
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/M_Fence01.uasset" 686
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_FloorFence02.uasset" 687
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_FloorFence01.uasset" 688
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor03_BC.uasset" 689
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Floor03.uasset" 690
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Floor03.uasset" 691
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Floor02.uasset" 692
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor01_R.uasset" 693
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor01_N.uasset" 694
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor01_BC.uasset" 695
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor01_AO.uasset" 696
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Floor01.uasset" 697
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Floor01.uasset" 698
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_FabricPipe_R.uasset" 699
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_FabricPipe_N.uasset" 700
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_FabricPipe_BC.uasset" 701
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_FabricPipe_AO.uasset" 702
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_FabricPipe.uasset" 703
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_FabricPipe05.uasset" 704
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_FabricPipe04.uasset" 705
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_FabricPipe03.uasset" 706
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_FabricPipe02.uasset" 707
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_FabricPipe01.uasset" 708
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Fabric02_R.uasset" 709
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Fabric02_N.uasset" 710
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Fabric02_BC.uasset" 711
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Fabric01_AO.uasset" 712
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Fabric02.uasset" 713
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Fabric02.uasset" 714
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Fabric01_R.uasset" 715
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Fabric01_N.uasset" 716
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Fabric01_BC.uasset" 717
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Fabric01.uasset" 718
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Fabric01.uasset" 719
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Door02_Combined.uasset" 720
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/maps/demonstration_BuiltData.uasset" 721
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wallfabric01_Black_BC.uasset" 722
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Wallfabric02_Black.uasset" 723
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_wall06_R.uasset" 724
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_wall06_N.uasset" 725
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall06_BC.uasset" 726
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall06_AO.uasset" 727
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Wall06.uasset" 728
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall05_R.uasset" 729
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall05_N.uasset" 730
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall05_BC.uasset" 731
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Wall05_AO.uasset" 732
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Wall05.uasset" 733
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_RoundWall02_R.uasset" 734
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_RoundWall02_N.uasset" 735
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_RoundWall02_A.uasset" 736
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_RoundWall02.uasset" 737
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pipe01_Metal_N.uasset" 738
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pipe01_Metal_MT.uasset" 739
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pipe01_Metal_M.uasset" 740
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pipe01_Metal_BC.uasset" 741
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Pipe01_Metal_A.uasset" 742
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Pipe01_Metal.uasset" 743
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_LargePillar_White_BC.uasset" 744
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_LargePillar_White.uasset" 745
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_FloorConcrete_R.uasset" 746
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_FloorConcrete_N.uasset" 747
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_FloorConcrete_BC.uasset" 748
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_FloorConcrete_AO.uasset" 749
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_FloorConcrete.uasset" 750
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Barrel02_R.uasset" 751
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Barrel02_N.uasset" 752
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Barrel02_BC.uasset" 753
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Barrel02_AO.uasset" 754
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Barrel02.uasset" 755
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor04_Black_BC.uasset" 756
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor04_Black_A.uasset" 757
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor04_R.uasset" 758
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor04_N.uasset" 759
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor04_AO.uasset" 760
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Floor04_Black.uasset" 761
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor02_Grey_A.uasset" 762
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor02_R.uasset" 763
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor02_N.uasset" 764
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor02_AO.uasset" 765
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Floor02_Grey.uasset" 766
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor02_BC.uasset" 767
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Floor02.uasset" 768
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor01_Grey_BC.uasset" 769
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor01_Grey_A.uasset" 770
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Floor01_Grey.uasset" 771
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_FabricPipe_Dark_A.uasset" 772
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_FabricPipe_Dark.uasset" 773
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Container_red_BC.uasset" 774
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Container_Red.uasset" 775
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Container_dark_BC.uasset" 776
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Container_Dark.uasset" 777
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/maps/demonstration.umap" 778
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wallfabric01_Corner.uasset" 779
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall04_Innercorner.uasset" 780
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Wall01_Corner.uasset" 781
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Stairs05.uasset" 782
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RoundWall04.uasset" 783
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RoundWall03.uasset" 784
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RoundWall02.uasset" 785
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RailWhite6m.uasset" 786
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Door02.uasset" 787
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Door01.uasset" 788
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Crate03.uasset" 789
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Crate02.uasset" 790
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_ContainerQuarter.uasset" 791
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_ContainerHalf.uasset" 792
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Ceiling03.uasset" 793
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Ceiling01.uasset" 794
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RailRed_Stairs.uasset" 795
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RailRed_Corner.uasset" 796
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RailRed6m.uasset" 797
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_RailBase.uasset" 798
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_HangarCeiling_Double.uasset" 799
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 800
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/meshes/SM_Gate.uasset" 801
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/maps/Overview_BuiltData.uasset" 802
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Gate02_R.uasset" 803
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Gate02_N.uasset" 804
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Gate02_BC.uasset" 805
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Gate02_AO.uasset" 806
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Gate02.uasset" 807
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor05_R.uasset" 808
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor05_N.uasset" 809
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/textures/T_Floor05_AO.uasset" 810
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Floor05.uasset" 811
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/materials/MI_Floor04.uasset" 812
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/scifi_kitbash/maps/Overview.umap" 813
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Scenes/Movement_TestScene_BuiltData.uasset" 814
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Materials/M_Test1.uasset" 815
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Materials/Grappling_TestMaterial.uasset" 816
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Scenes/Movement_TestScene.umap" 817
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Cube1.uasset" 818
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Sounds/LaserBeam_End.uasset" 819
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Sounds/LaserBeam_Start.uasset" 820
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/AlexScenes/Enemies/BP_Enemy_LaserBeam.uasset" 821
+"../../../../../Uni Projects/Proyecto 3/repos/Prototype_01_Fast-PacedShooter/Dash_And_Deflect/Content/Test_Marc/Scenes/SC_Prototype.umap" 822
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 823
+"../../../Engine/Content/Maps/Entry.umap" 824
